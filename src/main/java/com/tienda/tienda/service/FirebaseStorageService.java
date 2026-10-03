@@ -1,4 +1,4 @@
-package com.tienda.service;
+package com.tienda.tienda.service;
 
 import com.google.cloud.storage.BlobId;
 import com.google.cloud.storage.BlobInfo;
