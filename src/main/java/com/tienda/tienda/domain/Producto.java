@@ -1,7 +1,7 @@
 package com.tienda.tienda.domain;
 
 import jakarta.persistence.*;
-import jakarta.validation.constraints.*;
+import jakarta.validation.constraints*;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import lombok.Data;
